@@ -1,12 +1,5 @@
 # U.S. Biodiesel Market Analysis (June 2024 – May 2025)
 
-**Prepared by:** *Kriti Dey*  
-**Format:** PowerPoint Presentation  
-**Date:** Septemper 2025  
-**Role:** Research Analyst  
-
----
-
 ## Project Overview
 This analytical project evaluates **pricing trends, cost structures, and policy impacts** shaping the U.S. biodiesel market between **June 2024 and May 2025**.  
 The work replicates a **real-world market research workflow**, integrating quantitative price modeling, policy evaluation, and forecasting to assess the short-term competitiveness of biodiesel in the U.S. energy mix.
